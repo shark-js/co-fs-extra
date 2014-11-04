@@ -1,0 +1,25 @@
+{
+  "name": "co-fs-extra",
+  "version": "0.0.1",
+  "description": "co-fs-extra ===========",
+  "main": "lib/cofse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shark-js/co-fs-extra.git"
+  },
+  "author": "Vadim Goncharov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shark-js/co-fs-extra/issues"
+  },
+  "homepage": "https://github.com/shark-js/co-fs-extra",
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "fs-extra": "^0.12.0",
+    "node.extend": "^1.1.3",
+    "thunkify": "^2.1.2"
+  }
+}
