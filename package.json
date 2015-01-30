@@ -1,7 +1,7 @@
 {
-  "name": "co-fs-extra",
+  "name": "cofse",
   "version": "0.0.1",
-  "description": "co-fs-extra ===========",
+  "description": "fs-extra for co",
   "main": "lib/cofse.js",
   "scripts": {
     "test": "node_modules/.bin/mocha --harmony ./test"
@@ -26,5 +26,11 @@
   "devDependencies": {
     "chai": "^1.9.2",
     "mocha": "^2.0.1"
-  }
+  },
+  "files": [
+    "lib",
+    "test",
+    "LICENCE",
+    "README.md"
+  ]
 }
